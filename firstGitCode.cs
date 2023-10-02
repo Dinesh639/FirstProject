@@ -8,7 +8,7 @@ using System;
             Console.WriteLine("Text from user :"+text);
             // Added the below line
             Console.WriteLine("Text from user :"+text);
-            // Commented the below line
-            //Console.WriteLine("Regex Text :"+regexText);
+            Console.WriteLine("Regex Text :"+regexText);
+            //uncommented the lines
         }
     }
