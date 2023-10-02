@@ -6,9 +6,8 @@ using System;
             Console.WriteLine("Enter the URL :");
             string text = Console.ReadLine();
             Console.WriteLine("Text from user :");
-            // Added the below line
-            Console.WriteLine("Text from user :");
+            //Console.WriteLine("Text from user :");
             Console.WriteLine("Regex Text :"+regexText);
-            uncommented the lines
+            //commented the lines
         }
     }
